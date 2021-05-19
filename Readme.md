@@ -1,0 +1,1 @@
+This is a Repo to store my completed "freecodecamp" excersizes as proof and reference material while mentoring
